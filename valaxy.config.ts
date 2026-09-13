@@ -105,8 +105,8 @@ export default defineValaxyConfig({
         {
           label: '--- 主域名 ---',
           lines: [
-            'daily.yybb.us',
-            'daily.20030327.xyz',
+            '08yu.top',
+            'bk.08yu.top',
             // 也支持对象：{ text: '显示文字', url: 'https://example.com' }
           ],
         },
